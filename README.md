@@ -168,8 +168,8 @@ This project is licensed under the MIT License
 ## 📸 Screenshots
 
 
-![Student List](screenshots/student-list.png)
----
+---<img width="1917" height="965" alt="Screenshot 2025-09-30 205031" src="https://github.com/user-attachments/assets/845599f0-1d4a-4453-9881-544c0a47668e" />
+
 
 Made with ❤️ using Angular
 ```
