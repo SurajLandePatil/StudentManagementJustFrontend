@@ -169,6 +169,7 @@ This project is licensed under the MIT License
 
 
 ---<img width="1917" height="965" alt="Screenshot 2025-09-30 205031" src="https://github.com/user-attachments/assets/845599f0-1d4a-4453-9881-544c0a47668e" />
+<img width="1917" height="965" alt="Screenshot 2025-09-30 205031" src="https://github.com/user-attachments/assets/d3872cfd-62be-4812-8bdf-8e920fd0cd91" />
 
 
 Made with ❤️ using Angular
