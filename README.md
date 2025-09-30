@@ -167,7 +167,7 @@ This project is licensed under the MIT License
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+
 ![Student List](screenshots/student-list.png)
 ---
 
