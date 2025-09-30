@@ -167,8 +167,8 @@ This project is licensed under the MIT License
 
 ## 📸 Screenshots
 
+![Student Management System Screenshot](https://github.com/SurajLandePatil/StudentManagementJustFrontend/blob/main/Screenshot%202025-09-30%20205031.png)
 
-![Screenshot](images/screenshot.png)
 
 Made with ❤️ using Angular
 ```
