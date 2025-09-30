@@ -166,9 +166,9 @@ This project is licensed under the MIT License
 ⭐ **If this project helped you, please give it a star!** ⭐
 
 ## 📸 Screenshots
-
+```
 ![Student Management System Screenshot](Screenshot%202025-09-30%20205031.png)
-
+```
 
 
 Made with ❤️ using Angular
